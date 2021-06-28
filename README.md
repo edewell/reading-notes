@@ -7,3 +7,5 @@
 1.  I do not know everything
 2.  There is always room for improvement
 3.  Always be open to ask for help
+
+https://github.com/edewell
