@@ -12,4 +12,4 @@ https://github.com/edewell
 
 theme: jekyll-theme-hacker
 
-THEME-NAME-HACKER
+
