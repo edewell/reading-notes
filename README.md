@@ -8,7 +8,8 @@
 2.  _There is always room for improvement_
 3.  _Always be open to ask for help_
 
-https://github.com/edewell
-https://edewell.github.io/reading-notes/MarkdownNotes
-https://edewell.github.io/reading-notes/StructuringWebsites
-https://edewell.github.io/reading-notes/revisions
+#### Links
+  -https://github.com/edewell
+  -https://edewell.github.io/reading-notes/MarkdownNotes
+  -https://edewell.github.io/reading-notes/StructuringWebsites
+  -https://edewell.github.io/reading-notes/revisions
