@@ -15,3 +15,4 @@ https://github.com/edewell
 [revisions](/reading-notes/revisions)
 [Structuring Websites](/reading-notes/StructuringWebsites)
 [Whati is CSS](/reading-notes/WhatisCSS)
+[Javascript Notes](/reading-notes/Javascript)
