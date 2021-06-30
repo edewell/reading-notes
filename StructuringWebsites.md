@@ -19,4 +19,7 @@
 
 ##### *Semantics*
 - Meaning of a piece code
+<<<<<<< HEAD
 
+=======
+>>>>>>> c6dcee8ee818297839153e78d5c95c7719973d65
