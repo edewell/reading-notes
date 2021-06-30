@@ -12,4 +12,6 @@
 https://github.com/edewell
 
 [Markdown Notes](/reading-notes/MarkdownNotes)
-=======
+[revisions](/reading-notes/revisions)
+[Structuring Websites](/reading-notes/StructuringWebsites)
+[Whati is CSS](/reading-notes/WhatisCSS)
