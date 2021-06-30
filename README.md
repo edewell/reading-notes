@@ -9,3 +9,5 @@
 3.  _Always be open to ask for help_
 
 https://github.com/edewell
+
+[Markdown Notes](/reading-notes/MarkdownNotes)
