@@ -13,9 +13,3 @@ https://github.com/edewell
 
 [Markdown Notes](/reading-notes/MarkdownNotes)
 =======
-#### Links
-  -https://github.com/edewell
-  -https://edewell.github.io/reading-notes/MarkdownNotes
-  -https://edewell.github.io/reading-notes/StructuringWebsites
-  -https://edewell.github.io/reading-notes/revisions
->>>>>>> c6dcee8ee818297839153e78d5c95c7719973d65
