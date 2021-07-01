@@ -17,3 +17,4 @@ https://github.com/edewell
 - [Whati is CSS](/reading-notes/WhatisCSS)
 - [Javascript Notes](/reading-notes/Javascript)
 - [Programming JS](/reading-notes/ProgrammingJS)
+- [Operators and Loops](/reading-notes/OperatorsandLoops)
