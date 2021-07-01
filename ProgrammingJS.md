@@ -22,4 +22,4 @@
 
 #### Control flow 
 - the order in which the computer executes statements
-- means that when you read  a script, you must only read from start to finish but also look at program structure and how it affects order of execution
+- means that when you read  a script, you must only read from start to finish but also look at program structure and how it affects order of execution 
