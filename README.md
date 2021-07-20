@@ -18,3 +18,6 @@ https://github.com/edewell
 - [Javascript Notes](/reading-notes/Javascript)
 - [Programming JS](/reading-notes/ProgrammingJS)
 - [Operators and Loops](/reading-notes/OperatorsandLoops)
+
+#### Code 201 Reading Notes
+- [Basics](/reading-notes/basics)
