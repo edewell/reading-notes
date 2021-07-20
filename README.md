@@ -20,4 +20,4 @@ https://github.com/edewell
 - [Operators and Loops](/reading-notes/OperatorsandLoops)
 
 #### Code 201 Reading Notes
-- [Basics](/reading-notes/basics)
+- [Basics](/reading-notes/Basics)
